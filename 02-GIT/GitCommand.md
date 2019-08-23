@@ -51,7 +51,8 @@
 |`git remote`|The git remote command lets you create, view, and delete connections to other repositories. |https://www.atlassian.com/git/tutorials/syncing|
 |`git remote -v`|List the remote connections you have to other repositories.|-|
 |`git push --tags`|The --tags flag sends all of your local tags to the remote repository.|https://www.atlassian.com/git/tutorials/syncing/git-push|
-
+|`git tag -d <tag name >`|to delete tag from local repo  | - |
+|`git push :<tag name>` | to delete tag from remote repo | - | 
 
 
 ----------------------------------------------------------------------------------------------------------------------------
